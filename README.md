@@ -1,7 +1,7 @@
 # Boruel
 This one for save our propeth
 
-dependencies {
+dependencies {seseorang memerintahkan saya untuk mengumpulkan baju untuk di cuci dengan sekehendak mereka. sementara saya ingin mencuci baju dengan kehendak saya
 
     val composeBom = platform("androidx.compose:compose-bom:2025.02.00")
     implementation(composeBom)
